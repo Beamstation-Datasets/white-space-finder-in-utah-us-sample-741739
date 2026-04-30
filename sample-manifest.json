@@ -1,12 +1,12 @@
 {
-  "export_job_id": "51b10f7e-f0da-4a69-b933-e50661cc49bf",
+  "export_job_id": "0176fa4c-98ca-4bcc-b6de-09447de1892f",
   "id_short": 741739,
-  "published_at": "2026-04-18T19:49:29Z",
+  "published_at": "2026-04-30T19:01:57Z",
   "repo_name": "white-space-finder-in-utah-us-sample-741739",
   "sample_asset_name": "beamstation_741739_food_and_drink-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/741739/beamstation_741739_food_and_drink-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "96dc7da0734e0a722ded147efde268449579767dc659db392331f43b21f52ca3",
-  "sample_size_bytes": 23080,
-  "total_records": 24
+  "sample_records": 1,
+  "sample_sha256": "deefef9103fa9f689c6ce7e2a18a625ccb01e4e8ae59ad907669ce31e8e283d3",
+  "sample_size_bytes": 19712,
+  "total_records": 18
 }
